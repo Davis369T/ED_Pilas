@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\UPN\\Downloads\\esytucutra\\ED\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|C:\\Users\\UPN\\Downloads\\esytucutra\\ED\\pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|c:\\users\\upn\\downloads\\esytucutra\\ed\\pilas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|solutionrelative:pilas\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|c:\\users\\upn\\downloads\\esytucutra\\ed\\pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|solutionrelative:pilas\\pila.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|c:\\users\\upn\\downloads\\esytucutra\\ed\\pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|C:\\Users\\UPN\\Downloads\\esytucutra\\ED\\pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{17056178-77A4-48AD-A907-EABE45B53413}|Pilas\\Pilas.csproj|solutionrelative:pilas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "pila.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\esytucutra\\ED\\Pilas\\pila.cs",
               "RelativeDocumentMoniker": "Pilas\\pila.cs",
               "ToolTip": "C:\\Users\\UPN\\Downloads\\esytucutra\\ED\\Pilas\\pila.cs",
               "RelativeToolTip": "Pilas\\pila.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:55:50.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "nodo.cs",
               "DocumentMoniker": "C:\\Users\\UPN\\Downloads\\esytucutra\\ED\\Pilas\\nodo.cs",
               "RelativeDocumentMoniker": "Pilas\\nodo.cs",
@@ -59,8 +59,7 @@
               "ToolTip": "C:\\Users\\UPN\\Downloads\\esytucutra\\ED\\Pilas\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Pilas\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T15:49:31.293Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-01-21T15:49:31.293Z"
             }
           ]
         }
